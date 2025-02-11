@@ -11,14 +11,14 @@ metadata:
   title:
     default: IcupWeb
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Pronto despegaremos. ¡Estamos trabajando para ofrecerte lo mejor, la pagina web esta actualmente en construcción!"
   robots:
     index: true
     follow: true
   openGraph:
     site_name: IcupWeb
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/logo-sn.webp'
         width: 1200
         height: 628
     type: website
